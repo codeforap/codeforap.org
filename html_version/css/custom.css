@@ -1,0 +1,9 @@
+#user-login .form-item, #user-login  .form-actions{
+	margin: 0px;
+}
+#user-login .form-required, #user-login .description{
+	display: none;
+}
+#user-login .form-item-pass label[for=edit-pass], #user-login .form-item-name label{
+	display: none;	
+}
